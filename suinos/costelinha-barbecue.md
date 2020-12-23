@@ -2,6 +2,8 @@
 
 ## COSTELA
 
+![Costelinha de Porco ao Molho Barbecue](costela.jpg)
+
 ### Ingredientes:
 - 2kg de costela suína
 - 500g de Molho Barbecue
@@ -40,6 +42,7 @@ Batata Frita, Arroz Branco, Arroz Tasmânia, Garlic Mashed Potato (purê de bata
 
 
 ## MOLHO BARBECUE
+![Moolho barbecue](barbecue.png)
 
 ### Ingredientes:
 - 1 xícara de chá de açúcar mascavo
@@ -67,6 +70,7 @@ Nunca coloque diretamente no prato que você cozinhou, coloque em um recipiente 
 
 
 ## MOLHO HONEY MUSTARD (Mostarda e Mel)
+![MOLHO HONEY MUSTARD](honey-mustard.JPG)
 ### Ingredientes:
 - 4 colheres de sopa cheias de maionese
 - 4 colheres de sopa rasas de mostarda amarela
@@ -85,6 +89,8 @@ Fiz sem a maionese e ficou muito bom.
 
 
 ## CINNAMON APPLE (MAÇÃ COM CANELA)
+![CINNAMON APPLE](apple.jpg)
+
 ### Ingredientes:
 - 2 maçãs (Fuji ou Gala) descascadas e cortadas em cubo – sem sementes
 - 2 colheres de açúcar
